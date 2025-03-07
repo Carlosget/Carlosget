@@ -17,7 +17,7 @@
    <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 ### Você também me encontra em:
-<a href="www.linkedin.com/in/carlos-rocha2504"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/caldasdev/"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
 
           
           
